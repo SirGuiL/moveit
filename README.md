@@ -3,10 +3,12 @@
 </center>
 Website construído na Next Level Week da Rocketseat 
 
-<img src="/public/prints/img1.png> ![alt Print1](https://github.com/SirGuiL/moveit/blob/main/public/prints/img1.png?raw=true)
-<img src="/public/prints/img2.png> ![alt Print2](https://github.com/SirGuiL/moveit/blob/main/public/prints/img2.png?raw=true)
-<img src="/public/prints/img3.png> ![alt Print3](https://github.com/SirGuiL/moveit/blob/main/public/prints/img3.png?raw=true)
-<img src="/public/prints/img4.png> ![alt Print4](https://github.com/SirGuiL/moveit/blob/main/public/prints/img4.png?raw=true)
+<img src="https://github.com/SirGuiL/moveit/blob/main/public/prints/img1.png?raw=true">
+
+![alt Print1](https://github.com/SirGuiL/moveit/blob/main/public/prints/img1.png?raw=true)
+![alt Print2](https://github.com/SirGuiL/moveit/blob/main/public/prints/img2.png?raw=true)
+![alt Print3](https://github.com/SirGuiL/moveit/blob/main/public/prints/img3.png?raw=true)
+![alt Print4](https://github.com/SirGuiL/moveit/blob/main/public/prints/img4.png?raw=true)
 
 - Tecnologias utilizadas:
 <img src="/public/prints/nextjs.png>
