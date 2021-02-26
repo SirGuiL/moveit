@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/SirGuiL/moveit/blob/main/public/favicon.png?raw=true">
 </p><br>
-Website construído na Next Level Week da Rocketseat 
+<p align="center">Website construído na Next Level Week da Rocketseat </p>
 
 <div style="display: flex;" align="center">
   <img src="https://github.com/SirGuiL/moveit/blob/main/public/prints/img1.png?raw=true" width="400px">
@@ -12,7 +12,7 @@ Website construído na Next Level Week da Rocketseat
 <br><br>
 
 - Tecnologias utilizadas:
-<div style="display: flex;" align="center">
+<div style="display: flex;">
   <img src="/public/prints/nextjs.png" width="200px">
   <img src="/public/prints/react.jpg" width="200px">
 </div>
