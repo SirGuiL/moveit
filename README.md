@@ -1,4 +1,4 @@
-<img src="/public/favicon.png>
+![alt Logo](https://github.com/SirGuiL/moveit/blob/main/public/favicon.png?raw=true)
 Website construído na Next Level Week da Rocketseat 
 
 <img src="/public/prints/img1.png>
