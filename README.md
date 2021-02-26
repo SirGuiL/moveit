@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/SirGuiL/moveit/blob/main/public/favicon.png?raw=true">
-</p><br>
+</p><hr>
 <p align="center">Website construído na Next Level Week da Rocketseat </p>
 
 <div style="display: flex;" align="center">
