@@ -9,8 +9,10 @@ Website construído na Next Level Week da Rocketseat
 <img src="https://github.com/SirGuiL/moveit/blob/main/public/prints/img4.png?raw=true" width="400px">
 
 - Tecnologias utilizadas:
-<img src="/public/prints/nextjs.png">
-<img src="/public/prints/reactjs.jpg">
+<div style="display: flex;">
+  <img src="/public/prints/nextjs.png">
+  <img src="/public/prints/reactjs.jpg">
+</div>
 
 <p> - Novas funcionalidades: </p>
 <input type="checkbox"> Sistema de login
