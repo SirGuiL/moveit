@@ -1,5 +1,5 @@
 <center>
-![alt Logo](https://github.com/SirGuiL/moveit/blob/main/public/favicon.png?raw=true) </br>
+  <img src="https://github.com/SirGuiL/moveit/blob/main/public/favicon.png?raw=true">
 </center>
 Website construído na Next Level Week da Rocketseat 
 
