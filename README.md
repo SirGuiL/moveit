@@ -15,5 +15,5 @@ Website construído na Next Level Week da Rocketseat
 </div>
 
 <p> - Novas funcionalidades: </p>
-<input type="checkbox"> Sistema de login </br>
+<input type="checkbox" name="checkbox1"> <label for="checkbox1"> Sistema de login </label> </br>
 <input type="checkbox"> Ranking
