@@ -13,14 +13,7 @@ Website construído na Next Level Week da Rocketseat
   <img src="/public/prints/nextjs.png" width="200px">
   <img src="/public/prints/react.jpg" width="200px">
 </div>
-
-
-
-
-
-
-
-
+</br></br></br></br></br></br>
 - Novas funcionalidades:
 - [ ] Sistema de Login
 - [ ] Ranking
