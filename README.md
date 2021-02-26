@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; width: 100vw;">
+<div>
   <img src="https://github.com/SirGuiL/moveit/blob/main/public/favicon.png?raw=true" style="display: block; margin-left: auto;">
 </div>
 Website construído na Next Level Week da Rocketseat 
