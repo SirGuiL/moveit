@@ -15,6 +15,6 @@ Website construído na Next Level Week da Rocketseat
 </div>
 
 - Novas funcionalidades:
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [ ] Sistema de Login
+- [ ] Ranking
+- [ ] Sistema de competição
