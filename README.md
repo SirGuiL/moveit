@@ -10,8 +10,8 @@ Website construído na Next Level Week da Rocketseat
 
 - Tecnologias utilizadas:
 <div style="display: flex;">
-  <img src="/public/prints/nextjs.png">
-  <img src="/public/prints/reactjs.jpg">
+  <img src="/public/prints/nextjs.png" width="200px">
+  <img src="/public/prints/react.jpg" width="200px">
 </div>
 
 <p> - Novas funcionalidades: </p>
